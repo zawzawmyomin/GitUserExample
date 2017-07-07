@@ -15,6 +15,7 @@
 		948223D01F0F3AA7007408BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 948223CE1F0F3AA7007408BF /* LaunchScreen.storyboard */; };
 		948223DB1F0F3AA7007408BF /* GitTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 948223DA1F0F3AA7007408BF /* GitTestTests.swift */; };
 		948223E61F0F3AA7007408BF /* GitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 948223E51F0F3AA7007408BF /* GitTestUITests.swift */; };
+		948223F41F0F46A5007408BF /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 948223F31F0F46A5007408BF /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		948223E11F0F3AA7007408BF /* GitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		948223E51F0F3AA7007408BF /* GitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITests.swift; sourceTree = "<group>"; };
 		948223E71F0F3AA7007408BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		948223F31F0F46A5007408BF /* MapForItinerary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				948223C21F0F3AA7007408BF /* AppDelegate.swift */,
 				948223C41F0F3AA7007408BF /* ViewController.swift */,
+				948223F31F0F46A5007408BF /* MapForItinerary.swift */,
 				948223C61F0F3AA7007408BF /* Main.storyboard */,
 				948223CC1F0F3AA7007408BF /* Assets.xcassets */,
 				948223CE1F0F3AA7007408BF /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				948223F41F0F46A5007408BF /* MapForItinerary.swift in Sources */,
 				948223CB1F0F3AA7007408BF /* GitTest.xcdatamodeld in Sources */,
 				948223C51F0F3AA7007408BF /* ViewController.swift in Sources */,
 				948223C31F0F3AA7007408BF /* AppDelegate.swift in Sources */,
